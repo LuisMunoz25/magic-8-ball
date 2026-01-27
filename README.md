@@ -40,7 +40,36 @@ This project was created as a learning exercise while studying Python on Codecad
    ```bash
    python magic-8-ball.py
 
-📌 Example Output
+### 📌 Example Output
 Question: Will I learn Python?
 
 Magic 8 Ball's answer: Yes - definitely
+
+### 📚 What I Learned
+
+Importing and using Python modules
+
+Generating random numbers with randint
+
+Using if / elif / else conditionals
+
+Basic string concatenation
+
+Introduction to match statements (Python 3.10+)
+
+Writing readable and structured code
+
+### 🔮 Possible Improvements
+
+Allow multiple questions in a loop
+
+Store answers in a list instead of conditionals
+
+Improve input validation
+
+Refactor the code into functions
+
+## 🧠 Author
+
+Luis Munoz
+Learning Python and software development 🚀
