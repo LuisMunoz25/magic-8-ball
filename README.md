@@ -26,19 +26,23 @@ This project was created as a learning exercise while studying Python on Codecad
 1. Make sure you have **Python 3** installed:
    ```bash
    python --version
+   ```
 
 2. Clone this repository:
-    
+    ```bash
    git clone https://github.com/LuisMunoz25/magic-8-ball.git
+    ```
 
 3. Navigate into the project folder:
    ```bash
    cd magic-8-ball
+   ```
 
 
 4. Run the script:
    ```bash
    python magic-8-ball.py
+   ```
 
 ### 📌 Example Output
 Question: Will I learn Python?
